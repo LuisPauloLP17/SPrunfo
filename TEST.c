@@ -1,6 +1,2 @@
-#include <stdio.h>
-
-int main(){
-    printf ("mojango\n");
-    return 0;
-}
+ #include <stdio.h>
+ 
